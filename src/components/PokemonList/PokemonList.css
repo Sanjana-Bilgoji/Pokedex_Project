@@ -5,8 +5,7 @@
     align-items: center;
 }
 .pokemon-wrapper{
-   
-    display: flex;
+   display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly; 
@@ -18,5 +17,6 @@
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     margin-left: 1rem;
+    
 
 }
